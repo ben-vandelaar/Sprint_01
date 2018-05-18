@@ -1,6 +1,6 @@
 # SPRINT_01
 
-Moved the repository back to incompass all of the first sprint.
+Moved the repository back to encompass all of the first sprint.
 
 
 #### HTML BASICS
